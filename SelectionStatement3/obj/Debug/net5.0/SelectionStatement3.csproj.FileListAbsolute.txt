@@ -1,0 +1,16 @@
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\bin\Debug\net5.0\SelectionStatement3.exe
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\bin\Debug\net5.0\SelectionStatement3.deps.json
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\bin\Debug\net5.0\SelectionStatement3.runtimeconfig.json
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\bin\Debug\net5.0\SelectionStatement3.runtimeconfig.dev.json
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\bin\Debug\net5.0\SelectionStatement3.dll
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\bin\Debug\net5.0\ref\SelectionStatement3.dll
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\bin\Debug\net5.0\SelectionStatement3.pdb
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\obj\Debug\net5.0\SelectionStatement3.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\obj\Debug\net5.0\SelectionStatement3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\obj\Debug\net5.0\SelectionStatement3.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\obj\Debug\net5.0\SelectionStatement3.AssemblyInfo.cs
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\obj\Debug\net5.0\SelectionStatement3.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\obj\Debug\net5.0\SelectionStatement3.dll
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\obj\Debug\net5.0\ref\SelectionStatement3.dll
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\obj\Debug\net5.0\SelectionStatement3.pdb
+C:\Users\Robz PC\repos\SelectionStatement3\SelectionStatement3\obj\Debug\net5.0\SelectionStatement3.genruntimeconfig.cache
